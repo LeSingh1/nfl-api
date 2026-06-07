@@ -9,5 +9,6 @@
     "scoreboard": "node examples/scoreboard.js"
   },
   "license": "MIT",
-  "author": "Shaurya Singh"
+  "author": "Shaurya Singh",
+  "types": "src/api.d.ts"
 }

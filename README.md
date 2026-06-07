@@ -1,5 +1,7 @@
 # nfl-api
 
+![CI](https://github.com/LeSingh1/nfl-api/actions/workflows/test.yml/badge.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![node](https://img.shields.io/badge/node-%E2%89%A518-brightgreen.svg) ![dependencies](https://img.shields.io/badge/dependencies-0-success.svg)
+
 Unofficial Node client for ESPN's NFL data. ESPN serves NFL under
 `football/nfl`, and this wraps those endpoints with retry/timeout
 transport and parsers that return clean data.
