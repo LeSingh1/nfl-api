@@ -24,7 +24,7 @@ async function get(url, { timeout = 12000, retries = 3 } = {}) {
       res = await fetch(url, { headers: { "user-agent": UA }, signal: ctrl.signal });
     } catch (e) {
       clearTimeout(timer);
-      if (attempt >= retries) throw new Error(`request failed for ${url}: ${e.message}`);
+      if (attempt >= retries) throw Object.assign(new Error(`request failed for ${url}: ${e.message}`), { url, cause: e });
       await sleep(backoff(attempt));
       continue;
     }
@@ -35,7 +35,7 @@ async function get(url, { timeout = 12000, retries = 3 } = {}) {
       await sleep(Number.isFinite(ra) && ra > 0 ? ra * 1000 : backoff(attempt));
       continue;
     }
-    throw new Error(`ESPN ${res.status} ${res.statusText} for ${url}`);
+    throw Object.assign(new Error(`ESPN ${res.status} ${res.statusText} for ${url}`), { status: res.status, url });
   }
 }
 
