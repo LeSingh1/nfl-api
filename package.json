@@ -1,0 +1,13 @@
+{
+  "name": "nfl-api",
+  "version": "1.0.0",
+  "type": "module",
+  "private": false,
+  "description": "Unofficial Node client for ESPN's NFL API",
+  "scripts": {
+    "test": "node tests/sports.test.js",
+    "scoreboard": "node examples/scoreboard.js"
+  },
+  "license": "MIT",
+  "author": "Shaurya Singh"
+}
