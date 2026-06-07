@@ -1,11 +1,12 @@
 # nfl-api
 
-Small, unofficial Node client for ESPN's NFL data. ESPN serves NFL
-under `football/nfl`, and this wraps those endpoints.
+Unofficial Node client for ESPN's NFL data. ESPN serves NFL under
+`football/nfl`, and this wraps those endpoints with retry/timeout
+transport and parsers that return clean data.
 
 Part of the [espn-api](https://github.com/LeSingh1/espn-api) family. The parent
-repo is one client for every sport. This one is just NFL, in the style of
-swar/nba_api, for people who only want this league.
+is one client for every sport. This one is just NFL, in the style of
+swar/nba_api.
 
 ## Run it
 
@@ -14,21 +15,26 @@ No dependencies. Node 18+ (built-in fetch).
 ```
 git clone https://github.com/LeSingh1/nfl-api
 cd nfl-api
-node examples/scoreboard.js   # NFL games on the board
-node examples/gamelog.js      # a real player's game log
-node tests/sports.test.js
+node examples/scoreboard.js   # NFL games
+node examples/gamelog.js      # a real player's clean game log
+npm test
 ```
 
 ## Use it
 
 ```js
-import { scoreboard, gamelog } from "./src/api.js";
+import { scoreboardClean, gamelogClean } from "./src/api.js";
 
-await scoreboard({ dates: "20260906" });
-await gamelog("ATHLETE_ID");   // per-game log
+await scoreboardClean({ dates: "20260906" });   // tidy array of games
+await gamelogClean("ATHLETE_ID");               // [{ date, opponent, atVs, stats }]
 ```
 
-Each call returns ESPN's raw JSON. Endpoints: `scoreboard`, `teams`, `team`, `roster`, `athlete`, `gamelog`, `splits`, `news`, `summary`, `standings`.
+Raw endpoints: `scoreboard`, `teams`, `team`, `roster`, `athlete`, `athletes`, `gamelog`, `splits`, `news`, `summary`, `standings`, `odds`, `plays`. Parsed helpers that hand back clean data: `scoreboardClean`, `teamsClean`, `rosterClean`, `gamelogClean`.
+
+## Transport
+
+12 second timeout, up to 3 retries on 429 and 5xx with backoff and Retry-After.
+Real failures throw with the status and url.
 
 ## Honest notes
 

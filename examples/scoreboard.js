@@ -1,6 +1,8 @@
-import { scoreboard } from "../src/api.js";
+import { scoreboardClean } from "../src/api.js";
 
-const board = await scoreboard();
-const events = (board.events || []).map((e) => e.name || e.shortName);
-console.log("NFL events on the board:", events.length);
-for (const e of events.slice(0, 10)) console.log("  " + e);
+const games = await scoreboardClean();
+console.log("NFL:", games.length, "events");
+for (const g of games.slice(0, 10)) {
+  const label = g.away && g.home ? `${g.away.abbr} @ ${g.home.abbr}` : g.name;
+  console.log("  " + label + "  " + (g.status || g.date || ""));
+}
