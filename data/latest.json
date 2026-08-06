@@ -1,0 +1,29 @@
+{
+  "sport": "football",
+  "league": "nfl",
+  "date": "20260806",
+  "count": 1,
+  "games": [
+    {
+      "id": "401873271",
+      "name": "Carolina Panthers at Arizona Cardinals",
+      "shortName": "CAR VS ARI",
+      "date": "2026-08-07T00:00Z",
+      "state": "pre",
+      "status": "8/6 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "22",
+        "abbr": "ARI",
+        "name": "Arizona Cardinals",
+        "score": "0"
+      },
+      "away": {
+        "id": "29",
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
+        "score": "0"
+      }
+    }
+  ]
+}

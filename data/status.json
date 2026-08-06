@@ -1,8 +1,8 @@
 {
   "sport": "football",
   "league": "nfl",
-  "lastCheckedUtc": "2026-08-05T14:30:34.381Z",
-  "lastCheckedDate": "20260805",
-  "gamesToday": 0,
-  "lastGameDate": null
+  "lastCheckedUtc": "2026-08-06T14:32:32.630Z",
+  "lastCheckedDate": "20260806",
+  "gamesToday": 1,
+  "lastGameDate": "20260806"
 }
