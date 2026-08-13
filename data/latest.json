@@ -1,27 +1,132 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260806",
-  "count": 1,
+  "date": "20260813",
+  "count": 6,
   "games": [
     {
-      "id": "401873271",
-      "name": "Carolina Panthers at Arizona Cardinals",
-      "shortName": "CAR VS ARI",
-      "date": "2026-08-07T00:00Z",
+      "id": "401873272",
+      "name": "Detroit Lions at Cincinnati Bengals",
+      "shortName": "DET @ CIN",
+      "date": "2026-08-13T23:00Z",
       "state": "pre",
-      "status": "8/6 - 8:00 PM EDT",
+      "status": "8/13 - 7:00 PM EDT",
       "completed": false,
       "home": {
+        "id": "4",
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals",
+        "score": "0"
+      },
+      "away": {
+        "id": "8",
+        "abbr": "DET",
+        "name": "Detroit Lions",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873275",
+      "name": "Green Bay Packers at Pittsburgh Steelers",
+      "shortName": "GB @ PIT",
+      "date": "2026-08-13T23:00Z",
+      "state": "pre",
+      "status": "8/13 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "23",
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873273",
+      "name": "Indianapolis Colts at New England Patriots",
+      "shortName": "IND @ NE",
+      "date": "2026-08-13T23:30Z",
+      "state": "pre",
+      "status": "8/13 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "17",
+        "abbr": "NE",
+        "name": "New England Patriots",
+        "score": "0"
+      },
+      "away": {
+        "id": "11",
+        "abbr": "IND",
+        "name": "Indianapolis Colts",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873640",
+      "name": "Arizona Cardinals at Las Vegas Raiders",
+      "shortName": "ARI @ LV",
+      "date": "2026-08-14T00:00Z",
+      "state": "pre",
+      "status": "8/13 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "13",
+        "abbr": "LV",
+        "name": "Las Vegas Raiders",
+        "score": "0"
+      },
+      "away": {
         "id": "22",
         "abbr": "ARI",
         "name": "Arizona Cardinals",
         "score": "0"
+      }
+    },
+    {
+      "id": "401873274",
+      "name": "Los Angeles Chargers at Houston Texans",
+      "shortName": "LAC @ HOU",
+      "date": "2026-08-14T00:00Z",
+      "state": "pre",
+      "status": "8/13 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "34",
+        "abbr": "HOU",
+        "name": "Houston Texans",
+        "score": "0"
       },
       "away": {
-        "id": "29",
-        "abbr": "CAR",
-        "name": "Carolina Panthers",
+        "id": "24",
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401874392",
+      "name": "Tennessee Titans at San Francisco 49ers",
+      "shortName": "TEN @ SF",
+      "date": "2026-08-14T01:00Z",
+      "state": "pre",
+      "status": "8/13 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "25",
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
+        "score": "0"
+      },
+      "away": {
+        "id": "10",
+        "abbr": "TEN",
+        "name": "Tennessee Titans",
         "score": "0"
       }
     }
