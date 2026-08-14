@@ -1,132 +1,69 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260813",
-  "count": 6,
+  "date": "20260814",
+  "count": 3,
   "games": [
     {
-      "id": "401873272",
-      "name": "Detroit Lions at Cincinnati Bengals",
-      "shortName": "DET @ CIN",
-      "date": "2026-08-13T23:00Z",
+      "id": "401873278",
+      "name": "Denver Broncos at Atlanta Falcons",
+      "shortName": "DEN @ ATL",
+      "date": "2026-08-14T23:00Z",
       "state": "pre",
-      "status": "8/13 - 7:00 PM EDT",
+      "status": "8/14 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "4",
-        "abbr": "CIN",
-        "name": "Cincinnati Bengals",
+        "id": "1",
+        "abbr": "ATL",
+        "name": "Atlanta Falcons",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "DET",
-        "name": "Detroit Lions",
+        "id": "7",
+        "abbr": "DEN",
+        "name": "Denver Broncos",
         "score": "0"
       }
     },
     {
-      "id": "401873275",
-      "name": "Green Bay Packers at Pittsburgh Steelers",
-      "shortName": "GB @ PIT",
-      "date": "2026-08-13T23:00Z",
+      "id": "401873276",
+      "name": "Tampa Bay Buccaneers at New York Jets",
+      "shortName": "TB @ NYJ",
+      "date": "2026-08-14T23:00Z",
       "state": "pre",
-      "status": "8/13 - 7:00 PM EDT",
+      "status": "8/14 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "23",
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
+        "id": "20",
+        "abbr": "NYJ",
+        "name": "New York Jets",
         "score": "0"
       },
       "away": {
-        "id": "9",
-        "abbr": "GB",
-        "name": "Green Bay Packers",
+        "id": "27",
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers",
         "score": "0"
       }
     },
     {
-      "id": "401873273",
-      "name": "Indianapolis Colts at New England Patriots",
-      "shortName": "IND @ NE",
-      "date": "2026-08-13T23:30Z",
+      "id": "401873277",
+      "name": "Miami Dolphins at Washington Commanders",
+      "shortName": "MIA @ WSH",
+      "date": "2026-08-14T23:00Z",
       "state": "pre",
-      "status": "8/13 - 7:30 PM EDT",
+      "status": "8/14 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "17",
-        "abbr": "NE",
-        "name": "New England Patriots",
+        "id": "28",
+        "abbr": "WSH",
+        "name": "Washington Commanders",
         "score": "0"
       },
       "away": {
-        "id": "11",
-        "abbr": "IND",
-        "name": "Indianapolis Colts",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873640",
-      "name": "Arizona Cardinals at Las Vegas Raiders",
-      "shortName": "ARI @ LV",
-      "date": "2026-08-14T00:00Z",
-      "state": "pre",
-      "status": "8/13 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "13",
-        "abbr": "LV",
-        "name": "Las Vegas Raiders",
-        "score": "0"
-      },
-      "away": {
-        "id": "22",
-        "abbr": "ARI",
-        "name": "Arizona Cardinals",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873274",
-      "name": "Los Angeles Chargers at Houston Texans",
-      "shortName": "LAC @ HOU",
-      "date": "2026-08-14T00:00Z",
-      "state": "pre",
-      "status": "8/13 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "34",
-        "abbr": "HOU",
-        "name": "Houston Texans",
-        "score": "0"
-      },
-      "away": {
-        "id": "24",
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401874392",
-      "name": "Tennessee Titans at San Francisco 49ers",
-      "shortName": "TEN @ SF",
-      "date": "2026-08-14T01:00Z",
-      "state": "pre",
-      "status": "8/13 - 9:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "25",
-        "abbr": "SF",
-        "name": "San Francisco 49ers",
-        "score": "0"
-      },
-      "away": {
-        "id": "10",
-        "abbr": "TEN",
-        "name": "Tennessee Titans",
+        "id": "15",
+        "abbr": "MIA",
+        "name": "Miami Dolphins",
         "score": "0"
       }
     }
