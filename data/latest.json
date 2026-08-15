@@ -1,69 +1,153 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260814",
-  "count": 3,
+  "date": "20260815",
+  "count": 7,
   "games": [
     {
-      "id": "401873278",
-      "name": "Denver Broncos at Atlanta Falcons",
-      "shortName": "DEN @ ATL",
-      "date": "2026-08-14T23:00Z",
+      "id": "401873282",
+      "name": "Carolina Panthers at Buffalo Bills",
+      "shortName": "CAR @ BUF",
+      "date": "2026-08-15T17:00Z",
       "state": "pre",
-      "status": "8/14 - 7:00 PM EDT",
+      "status": "8/15 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "1",
-        "abbr": "ATL",
-        "name": "Atlanta Falcons",
+        "id": "2",
+        "abbr": "BUF",
+        "name": "Buffalo Bills",
         "score": "0"
       },
       "away": {
-        "id": "7",
-        "abbr": "DEN",
-        "name": "Denver Broncos",
+        "id": "29",
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
         "score": "0"
       }
     },
     {
-      "id": "401873276",
-      "name": "Tampa Bay Buccaneers at New York Jets",
-      "shortName": "TB @ NYJ",
-      "date": "2026-08-14T23:00Z",
+      "id": "401874393",
+      "name": "Cleveland Browns at Chicago Bears",
+      "shortName": "CLE @ CHI",
+      "date": "2026-08-15T17:00Z",
       "state": "pre",
-      "status": "8/14 - 7:00 PM EDT",
+      "status": "8/15 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "20",
-        "abbr": "NYJ",
-        "name": "New York Jets",
+        "id": "3",
+        "abbr": "CHI",
+        "name": "Chicago Bears",
         "score": "0"
       },
       "away": {
-        "id": "27",
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers",
+        "id": "5",
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
         "score": "0"
       }
     },
     {
-      "id": "401873277",
-      "name": "Miami Dolphins at Washington Commanders",
-      "shortName": "MIA @ WSH",
-      "date": "2026-08-14T23:00Z",
+      "id": "401873280",
+      "name": "Minnesota Vikings at New York Giants",
+      "shortName": "MIN @ NYG",
+      "date": "2026-08-15T17:00Z",
       "state": "pre",
-      "status": "8/14 - 7:00 PM EDT",
+      "status": "8/15 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "28",
-        "abbr": "WSH",
-        "name": "Washington Commanders",
+        "id": "19",
+        "abbr": "NYG",
+        "name": "New York Giants",
         "score": "0"
       },
       "away": {
-        "id": "15",
-        "abbr": "MIA",
-        "name": "Miami Dolphins",
+        "id": "16",
+        "abbr": "MIN",
+        "name": "Minnesota Vikings",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873283",
+      "name": "Los Angeles Rams at Kansas City Chiefs",
+      "shortName": "LAR @ KC",
+      "date": "2026-08-15T20:00Z",
+      "state": "pre",
+      "status": "8/15 - 4:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "12",
+        "abbr": "KC",
+        "name": "Kansas City Chiefs",
+        "score": "0"
+      },
+      "away": {
+        "id": "14",
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873281",
+      "name": "Jacksonville Jaguars at New Orleans Saints",
+      "shortName": "JAX @ NO",
+      "date": "2026-08-15T20:00Z",
+      "state": "pre",
+      "status": "8/15 - 4:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "18",
+        "abbr": "NO",
+        "name": "New Orleans Saints",
+        "score": "0"
+      },
+      "away": {
+        "id": "30",
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873284",
+      "name": "Philadelphia Eagles at Baltimore Ravens",
+      "shortName": "PHI @ BAL",
+      "date": "2026-08-15T23:00Z",
+      "state": "pre",
+      "status": "8/15 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "33",
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
+        "score": "0"
+      },
+      "away": {
+        "id": "21",
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873279",
+      "name": "Dallas Cowboys at Seattle Seahawks",
+      "shortName": "DAL @ SEA",
+      "date": "2026-08-16T00:00Z",
+      "state": "pre",
+      "status": "8/15 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "26",
+        "abbr": "SEA",
+        "name": "Seattle Seahawks",
+        "score": "0"
+      },
+      "away": {
+        "id": "6",
+        "abbr": "DAL",
+        "name": "Dallas Cowboys",
         "score": "0"
       }
     }
