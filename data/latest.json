@@ -1,48 +1,69 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260820",
-  "count": 2,
+  "date": "20260821",
+  "count": 3,
   "games": [
     {
-      "id": "401873286",
-      "name": "Las Vegas Raiders at Houston Texans",
-      "shortName": "LV @ HOU",
-      "date": "2026-08-21T00:00Z",
+      "id": "401873288",
+      "name": "New York Jets at Pittsburgh Steelers",
+      "shortName": "NYJ @ PIT",
+      "date": "2026-08-21T23:00Z",
       "state": "pre",
-      "status": "8/20 - 8:00 PM EDT",
+      "status": "8/21 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "34",
-        "abbr": "HOU",
-        "name": "Houston Texans",
+        "id": "23",
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
         "score": "0"
       },
       "away": {
-        "id": "13",
-        "abbr": "LV",
-        "name": "Las Vegas Raiders",
+        "id": "20",
+        "abbr": "NYJ",
+        "name": "New York Jets",
         "score": "0"
       }
     },
     {
-      "id": "401873285",
-      "name": "San Francisco 49ers at Los Angeles Chargers",
-      "shortName": "SF @ LAC",
-      "date": "2026-08-21T02:00Z",
+      "id": "401873287",
+      "name": "Carolina Panthers at Jacksonville Jaguars",
+      "shortName": "CAR @ JAX",
+      "date": "2026-08-21T23:30Z",
       "state": "pre",
-      "status": "8/20 - 10:00 PM EDT",
+      "status": "8/21 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "24",
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers",
+        "id": "30",
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars",
         "score": "0"
       },
       "away": {
-        "id": "25",
-        "abbr": "SF",
-        "name": "San Francisco 49ers",
+        "id": "29",
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873613",
+      "name": "Green Bay Packers at Denver Broncos",
+      "shortName": "GB @ DEN",
+      "date": "2026-08-22T01:00Z",
+      "state": "pre",
+      "status": "8/21 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "7",
+        "abbr": "DEN",
+        "name": "Denver Broncos",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
         "score": "0"
       }
     }
