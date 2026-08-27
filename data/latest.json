@@ -1,27 +1,90 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260823",
-  "count": 1,
+  "date": "20260827",
+  "count": 4,
   "games": [
     {
-      "id": "401873297",
-      "name": "Seattle Seahawks at Tennessee Titans",
-      "shortName": "SEA @ TEN",
-      "date": "2026-08-24T00:00Z",
+      "id": "401873298",
+      "name": "Pittsburgh Steelers at Buffalo Bills",
+      "shortName": "PIT @ BUF",
+      "date": "2026-08-27T23:00Z",
       "state": "pre",
-      "status": "8/23 - 8:00 PM EDT",
+      "status": "8/27 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "10",
-        "abbr": "TEN",
-        "name": "Tennessee Titans",
+        "id": "2",
+        "abbr": "BUF",
+        "name": "Buffalo Bills",
         "score": "0"
       },
       "away": {
-        "id": "26",
-        "abbr": "SEA",
-        "name": "Seattle Seahawks",
+        "id": "23",
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873299",
+      "name": "New England Patriots at Cleveland Browns",
+      "shortName": "NE @ CLE",
+      "date": "2026-08-28T00:00Z",
+      "state": "pre",
+      "status": "8/27 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "5",
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "score": "0"
+      },
+      "away": {
+        "id": "17",
+        "abbr": "NE",
+        "name": "New England Patriots",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873641",
+      "name": "San Francisco 49ers at Las Vegas Raiders",
+      "shortName": "SF @ LV",
+      "date": "2026-08-28T00:00Z",
+      "state": "pre",
+      "status": "8/27 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "13",
+        "abbr": "LV",
+        "name": "Las Vegas Raiders",
+        "score": "0"
+      },
+      "away": {
+        "id": "25",
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873300",
+      "name": "Los Angeles Rams at Los Angeles Chargers",
+      "shortName": "LAR @ LAC",
+      "date": "2026-08-28T02:00Z",
+      "state": "pre",
+      "status": "8/27 - 10:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "24",
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers",
+        "score": "0"
+      },
+      "away": {
+        "id": "14",
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
         "score": "0"
       }
     }
