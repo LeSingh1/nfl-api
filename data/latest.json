@@ -1,216 +1,48 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260828",
-  "count": 10,
+  "date": "20260829",
+  "count": 2,
   "games": [
     {
-      "id": "401873302",
-      "name": "Washington Commanders at Baltimore Ravens",
-      "shortName": "WSH @ BAL",
-      "date": "2026-08-28T22:00Z",
-      "state": "in",
-      "status": "10:21 - 1st",
+      "id": "401873308",
+      "name": "Detroit Lions at Indianapolis Colts",
+      "shortName": "DET @ IND",
+      "date": "2026-08-29T17:00Z",
+      "state": "pre",
+      "status": "8/29 - 1:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "33",
-        "abbr": "BAL",
-        "name": "Baltimore Ravens",
+        "id": "11",
+        "abbr": "IND",
+        "name": "Indianapolis Colts",
         "score": "0"
       },
       "away": {
-        "id": "28",
-        "abbr": "WSH",
-        "name": "Washington Commanders",
+        "id": "8",
+        "abbr": "DET",
+        "name": "Detroit Lions",
         "score": "0"
       }
     },
     {
-      "id": "401873304",
-      "name": "Atlanta Falcons at Miami Dolphins",
-      "shortName": "ATL @ MIA",
-      "date": "2026-08-28T23:00Z",
+      "id": "401874394",
+      "name": "Chicago Bears at Tennessee Titans",
+      "shortName": "CHI @ TEN",
+      "date": "2026-08-29T22:00Z",
       "state": "pre",
-      "status": "8/28 - 7:00 PM EDT",
+      "status": "8/29 - 6:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "15",
-        "abbr": "MIA",
-        "name": "Miami Dolphins",
+        "id": "10",
+        "abbr": "TEN",
+        "name": "Tennessee Titans",
         "score": "0"
       },
       "away": {
-        "id": "1",
-        "abbr": "ATL",
-        "name": "Atlanta Falcons",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873307",
-      "name": "Houston Texans at Carolina Panthers",
-      "shortName": "HOU @ CAR",
-      "date": "2026-08-28T23:00Z",
-      "state": "pre",
-      "status": "8/28 - 7:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "29",
-        "abbr": "CAR",
-        "name": "Carolina Panthers",
-        "score": "0"
-      },
-      "away": {
-        "id": "34",
-        "abbr": "HOU",
-        "name": "Houston Texans",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873303",
-      "name": "New York Giants at New York Jets",
-      "shortName": "NYG @ NYJ",
-      "date": "2026-08-28T23:30Z",
-      "state": "pre",
-      "status": "8/28 - 7:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "20",
-        "abbr": "NYJ",
-        "name": "New York Jets",
-        "score": "0"
-      },
-      "away": {
-        "id": "19",
-        "abbr": "NYG",
-        "name": "New York Giants",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873306",
-      "name": "Tampa Bay Buccaneers at Jacksonville Jaguars",
-      "shortName": "TB @ JAX",
-      "date": "2026-08-28T23:30Z",
-      "state": "pre",
-      "status": "8/28 - 7:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "30",
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars",
-        "score": "0"
-      },
-      "away": {
-        "id": "27",
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401874048",
-      "name": "New Orleans Saints at Dallas Cowboys",
-      "shortName": "NO @ DAL",
-      "date": "2026-08-29T00:00Z",
-      "state": "pre",
-      "status": "8/28 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "6",
-        "abbr": "DAL",
-        "name": "Dallas Cowboys",
-        "score": "0"
-      },
-      "away": {
-        "id": "18",
-        "abbr": "NO",
-        "name": "New Orleans Saints",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401874102",
-      "name": "Arizona Cardinals at Green Bay Packers",
-      "shortName": "ARI @ GB",
-      "date": "2026-08-29T00:00Z",
-      "state": "pre",
-      "status": "8/28 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "9",
-        "abbr": "GB",
-        "name": "Green Bay Packers",
-        "score": "0"
-      },
-      "away": {
-        "id": "22",
-        "abbr": "ARI",
-        "name": "Arizona Cardinals",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873305",
-      "name": "Seattle Seahawks at Kansas City Chiefs",
-      "shortName": "SEA @ KC",
-      "date": "2026-08-29T00:00Z",
-      "state": "pre",
-      "status": "8/28 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "12",
-        "abbr": "KC",
-        "name": "Kansas City Chiefs",
-        "score": "0"
-      },
-      "away": {
-        "id": "26",
-        "abbr": "SEA",
-        "name": "Seattle Seahawks",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873301",
-      "name": "Cincinnati Bengals at Philadelphia Eagles",
-      "shortName": "CIN @ PHI",
-      "date": "2026-08-29T00:00Z",
-      "state": "pre",
-      "status": "8/28 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "21",
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles",
-        "score": "0"
-      },
-      "away": {
-        "id": "4",
-        "abbr": "CIN",
-        "name": "Cincinnati Bengals",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873614",
-      "name": "Minnesota Vikings at Denver Broncos",
-      "shortName": "MIN @ DEN",
-      "date": "2026-08-29T01:00Z",
-      "state": "pre",
-      "status": "8/28 - 9:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "7",
-        "abbr": "DEN",
-        "name": "Denver Broncos",
-        "score": "0"
-      },
-      "away": {
-        "id": "16",
-        "abbr": "MIN",
-        "name": "Minnesota Vikings",
+        "id": "3",
+        "abbr": "CHI",
+        "name": "Chicago Bears",
         "score": "0"
       }
     }
