@@ -1,48 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260829",
-  "count": 2,
+  "date": "20260909",
+  "count": 1,
   "games": [
     {
-      "id": "401873308",
-      "name": "Detroit Lions at Indianapolis Colts",
-      "shortName": "DET @ IND",
-      "date": "2026-08-29T17:00Z",
+      "id": "401872656",
+      "name": "New England Patriots at Seattle Seahawks",
+      "shortName": "NE @ SEA",
+      "date": "2026-09-10T00:20Z",
       "state": "pre",
-      "status": "8/29 - 1:00 PM EDT",
+      "status": "9/9 - 8:20 PM EDT",
       "completed": false,
       "home": {
-        "id": "11",
-        "abbr": "IND",
-        "name": "Indianapolis Colts",
+        "id": "26",
+        "abbr": "SEA",
+        "name": "Seattle Seahawks",
         "score": "0"
       },
       "away": {
-        "id": "8",
-        "abbr": "DET",
-        "name": "Detroit Lions",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401874394",
-      "name": "Chicago Bears at Tennessee Titans",
-      "shortName": "CHI @ TEN",
-      "date": "2026-08-29T22:00Z",
-      "state": "pre",
-      "status": "8/29 - 6:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "10",
-        "abbr": "TEN",
-        "name": "Tennessee Titans",
-        "score": "0"
-      },
-      "away": {
-        "id": "3",
-        "abbr": "CHI",
-        "name": "Chicago Bears",
+        "id": "17",
+        "abbr": "NE",
+        "name": "New England Patriots",
         "score": "0"
       }
     }
