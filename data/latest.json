@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260909",
+  "date": "20260910",
   "count": 1,
   "games": [
     {
-      "id": "401872656",
-      "name": "New England Patriots at Seattle Seahawks",
-      "shortName": "NE @ SEA",
-      "date": "2026-09-10T00:20Z",
+      "id": "401872657",
+      "name": "San Francisco 49ers at Los Angeles Rams",
+      "shortName": "SF VS LAR",
+      "date": "2026-09-11T00:35Z",
       "state": "pre",
-      "status": "9/9 - 8:20 PM EDT",
+      "status": "9/10 - 8:35 PM EDT",
       "completed": false,
       "home": {
-        "id": "26",
-        "abbr": "SEA",
-        "name": "Seattle Seahawks",
+        "id": "14",
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
         "score": "0"
       },
       "away": {
-        "id": "17",
-        "abbr": "NE",
-        "name": "New England Patriots",
+        "id": "25",
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
         "score": "0"
       }
     }
