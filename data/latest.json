@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260914",
+  "date": "20260917",
   "count": 1,
   "games": [
     {
-      "id": "401872931",
-      "name": "Denver Broncos at Kansas City Chiefs",
-      "shortName": "DEN @ KC",
-      "date": "2026-09-15T00:15Z",
+      "id": "401872932",
+      "name": "Detroit Lions at Buffalo Bills",
+      "shortName": "DET @ BUF",
+      "date": "2026-09-18T00:15Z",
       "state": "pre",
-      "status": "9/14 - 8:15 PM EDT",
+      "status": "9/17 - 8:15 PM EDT",
       "completed": false,
       "home": {
-        "id": "12",
-        "abbr": "KC",
-        "name": "Kansas City Chiefs",
+        "id": "2",
+        "abbr": "BUF",
+        "name": "Buffalo Bills",
         "score": "0"
       },
       "away": {
-        "id": "7",
-        "abbr": "DEN",
-        "name": "Denver Broncos",
+        "id": "8",
+        "abbr": "DET",
+        "name": "Detroit Lions",
         "score": "0"
       }
     }
