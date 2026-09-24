@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260921",
+  "date": "20260924",
   "count": 1,
   "games": [
     {
-      "id": "401872947",
-      "name": "New York Giants at Los Angeles Rams",
-      "shortName": "NYG @ LAR",
-      "date": "2026-09-22T00:15Z",
+      "id": "401872948",
+      "name": "Atlanta Falcons at Green Bay Packers",
+      "shortName": "ATL @ GB",
+      "date": "2026-09-25T00:15Z",
       "state": "pre",
-      "status": "9/21 - 8:15 PM EDT",
+      "status": "9/24 - 8:15 PM EDT",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "LAR",
-        "name": "Los Angeles Rams",
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
         "score": "0"
       },
       "away": {
-        "id": "19",
-        "abbr": "NYG",
-        "name": "New York Giants",
+        "id": "1",
+        "abbr": "ATL",
+        "name": "Atlanta Falcons",
         "score": "0"
       }
     }
