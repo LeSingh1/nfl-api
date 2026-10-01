@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20260928",
+  "date": "20261001",
   "count": 1,
   "games": [
     {
-      "id": "401872963",
-      "name": "Philadelphia Eagles at Chicago Bears",
-      "shortName": "PHI @ CHI",
-      "date": "2026-09-29T00:15Z",
+      "id": "401872964",
+      "name": "Pittsburgh Steelers at Cleveland Browns",
+      "shortName": "PIT @ CLE",
+      "date": "2026-10-02T00:15Z",
       "state": "pre",
-      "status": "9/28 - 8:15 PM EDT",
+      "status": "10/1 - 8:15 PM EDT",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "CHI",
-        "name": "Chicago Bears",
+        "id": "5",
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
         "score": "0"
       },
       "away": {
-        "id": "21",
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles",
+        "id": "23",
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
         "score": "0"
       }
     }
