@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261012",
+  "date": "20261015",
   "count": 1,
   "games": [
     {
-      "id": "401872994",
-      "name": "Buffalo Bills at Los Angeles Rams",
-      "shortName": "BUF @ LAR",
-      "date": "2026-10-13T00:15Z",
+      "id": "401872995",
+      "name": "Seattle Seahawks at Denver Broncos",
+      "shortName": "SEA @ DEN",
+      "date": "2026-10-16T00:15Z",
       "state": "pre",
-      "status": "10/12 - 8:15 PM EDT",
+      "status": "10/15 - 8:15 PM EDT",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "LAR",
-        "name": "Los Angeles Rams",
+        "id": "7",
+        "abbr": "DEN",
+        "name": "Denver Broncos",
         "score": "0"
       },
       "away": {
-        "id": "2",
-        "abbr": "BUF",
-        "name": "Buffalo Bills",
+        "id": "26",
+        "abbr": "SEA",
+        "name": "Seattle Seahawks",
         "score": "0"
       }
     }
