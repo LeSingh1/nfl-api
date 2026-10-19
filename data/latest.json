@@ -1,258 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261018",
-  "count": 12,
+  "date": "20261019",
+  "count": 1,
   "games": [
     {
-      "id": "401872996",
-      "name": "Houston Texans at Jacksonville Jaguars",
-      "shortName": "HOU VS JAX",
-      "date": "2026-10-18T13:30Z",
-      "state": "in",
-      "status": "4:45 - 3rd",
-      "completed": false,
-      "home": {
-        "id": "30",
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars",
-        "score": "14"
-      },
-      "away": {
-        "id": "34",
-        "abbr": "HOU",
-        "name": "Houston Texans",
-        "score": "24"
-      }
-    },
-    {
-      "id": "401872999",
-      "name": "Chicago Bears at Atlanta Falcons",
-      "shortName": "CHI @ ATL",
-      "date": "2026-10-18T17:00Z",
+      "id": "401873008",
+      "name": "Washington Commanders at San Francisco 49ers",
+      "shortName": "WSH @ SF",
+      "date": "2026-10-20T00:15Z",
       "state": "pre",
-      "status": "10/18 - 1:00 PM EDT",
+      "status": "10/19 - 8:15 PM EDT",
       "completed": false,
       "home": {
-        "id": "1",
-        "abbr": "ATL",
-        "name": "Atlanta Falcons",
+        "id": "25",
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
         "score": "0"
       },
       "away": {
-        "id": "3",
-        "abbr": "CHI",
-        "name": "Chicago Bears",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401872997",
-      "name": "Baltimore Ravens at Cleveland Browns",
-      "shortName": "BAL @ CLE",
-      "date": "2026-10-18T17:00Z",
-      "state": "pre",
-      "status": "10/18 - 1:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "5",
-        "abbr": "CLE",
-        "name": "Cleveland Browns",
-        "score": "0"
-      },
-      "away": {
-        "id": "33",
-        "abbr": "BAL",
-        "name": "Baltimore Ravens",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873003",
-      "name": "Tennessee Titans at Indianapolis Colts",
-      "shortName": "TEN @ IND",
-      "date": "2026-10-18T17:00Z",
-      "state": "pre",
-      "status": "10/18 - 1:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "11",
-        "abbr": "IND",
-        "name": "Indianapolis Colts",
-        "score": "0"
-      },
-      "away": {
-        "id": "10",
-        "abbr": "TEN",
-        "name": "Tennessee Titans",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873001",
-      "name": "New York Jets at New England Patriots",
-      "shortName": "NYJ @ NE",
-      "date": "2026-10-18T17:00Z",
-      "state": "pre",
-      "status": "10/18 - 1:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "17",
-        "abbr": "NE",
-        "name": "New England Patriots",
-        "score": "0"
-      },
-      "away": {
-        "id": "20",
-        "abbr": "NYJ",
-        "name": "New York Jets",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873000",
-      "name": "New Orleans Saints at New York Giants",
-      "shortName": "NO @ NYG",
-      "date": "2026-10-18T17:00Z",
-      "state": "pre",
-      "status": "10/18 - 1:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "19",
-        "abbr": "NYG",
-        "name": "New York Giants",
-        "score": "0"
-      },
-      "away": {
-        "id": "18",
-        "abbr": "NO",
-        "name": "New Orleans Saints",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401872998",
-      "name": "Carolina Panthers at Philadelphia Eagles",
-      "shortName": "CAR @ PHI",
-      "date": "2026-10-18T17:00Z",
-      "state": "pre",
-      "status": "10/18 - 1:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "21",
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles",
-        "score": "0"
-      },
-      "away": {
-        "id": "29",
-        "abbr": "CAR",
-        "name": "Carolina Panthers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873002",
-      "name": "Pittsburgh Steelers at Tampa Bay Buccaneers",
-      "shortName": "PIT @ TB",
-      "date": "2026-10-18T17:00Z",
-      "state": "pre",
-      "status": "10/18 - 1:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "27",
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers",
-        "score": "0"
-      },
-      "away": {
-        "id": "23",
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873004",
-      "name": "Arizona Cardinals at Los Angeles Rams",
-      "shortName": "ARI @ LAR",
-      "date": "2026-10-18T20:05Z",
-      "state": "pre",
-      "status": "10/18 - 4:05 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "14",
-        "abbr": "LAR",
-        "name": "Los Angeles Rams",
-        "score": "0"
-      },
-      "away": {
-        "id": "22",
-        "abbr": "ARI",
-        "name": "Arizona Cardinals",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873006",
-      "name": "Los Angeles Chargers at Kansas City Chiefs",
-      "shortName": "LAC @ KC",
-      "date": "2026-10-18T20:25Z",
-      "state": "pre",
-      "status": "10/18 - 4:25 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "12",
-        "abbr": "KC",
-        "name": "Kansas City Chiefs",
-        "score": "0"
-      },
-      "away": {
-        "id": "24",
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873005",
-      "name": "Buffalo Bills at Las Vegas Raiders",
-      "shortName": "BUF @ LV",
-      "date": "2026-10-18T20:25Z",
-      "state": "pre",
-      "status": "10/18 - 4:25 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "13",
-        "abbr": "LV",
-        "name": "Las Vegas Raiders",
-        "score": "0"
-      },
-      "away": {
-        "id": "2",
-        "abbr": "BUF",
-        "name": "Buffalo Bills",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873007",
-      "name": "Dallas Cowboys at Green Bay Packers",
-      "shortName": "DAL @ GB",
-      "date": "2026-10-19T00:20Z",
-      "state": "pre",
-      "status": "10/18 - 8:20 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "9",
-        "abbr": "GB",
-        "name": "Green Bay Packers",
-        "score": "0"
-      },
-      "away": {
-        "id": "6",
-        "abbr": "DAL",
-        "name": "Dallas Cowboys",
+        "id": "28",
+        "abbr": "WSH",
+        "name": "Washington Commanders",
         "score": "0"
       }
     }
