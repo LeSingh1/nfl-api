@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261019",
+  "date": "20261022",
   "count": 1,
   "games": [
     {
-      "id": "401873008",
-      "name": "Washington Commanders at San Francisco 49ers",
-      "shortName": "WSH @ SF",
-      "date": "2026-10-20T00:15Z",
+      "id": "401873010",
+      "name": "New England Patriots at Chicago Bears",
+      "shortName": "NE @ CHI",
+      "date": "2026-10-23T00:15Z",
       "state": "pre",
-      "status": "10/19 - 8:15 PM EDT",
+      "status": "10/22 - 8:15 PM EDT",
       "completed": false,
       "home": {
-        "id": "25",
-        "abbr": "SF",
-        "name": "San Francisco 49ers",
+        "id": "3",
+        "abbr": "CHI",
+        "name": "Chicago Bears",
         "score": "0"
       },
       "away": {
-        "id": "28",
-        "abbr": "WSH",
-        "name": "Washington Commanders",
+        "id": "17",
+        "abbr": "NE",
+        "name": "New England Patriots",
         "score": "0"
       }
     }
