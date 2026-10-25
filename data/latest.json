@@ -1,27 +1,258 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261022",
-  "count": 1,
+  "date": "20261025",
+  "count": 12,
   "games": [
     {
-      "id": "401873010",
-      "name": "New England Patriots at Chicago Bears",
-      "shortName": "NE @ CHI",
-      "date": "2026-10-23T00:15Z",
-      "state": "pre",
-      "status": "10/22 - 8:15 PM EDT",
+      "id": "401873011",
+      "name": "Pittsburgh Steelers at New Orleans Saints",
+      "shortName": "PIT VS NO",
+      "date": "2026-10-25T13:30Z",
+      "state": "in",
+      "status": "7:04 - 4th",
       "completed": false,
       "home": {
-        "id": "3",
-        "abbr": "CHI",
-        "name": "Chicago Bears",
+        "id": "18",
+        "abbr": "NO",
+        "name": "New Orleans Saints",
+        "score": "10"
+      },
+      "away": {
+        "id": "23",
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "score": "16"
+      }
+    },
+    {
+      "id": "401873017",
+      "name": "San Francisco 49ers at Atlanta Falcons",
+      "shortName": "SF @ ATL",
+      "date": "2026-10-25T17:00Z",
+      "state": "pre",
+      "status": "10/25 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "1",
+        "abbr": "ATL",
+        "name": "Atlanta Falcons",
         "score": "0"
       },
       "away": {
-        "id": "17",
-        "abbr": "NE",
-        "name": "New England Patriots",
+        "id": "25",
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873013",
+      "name": "Cleveland Browns at Tennessee Titans",
+      "shortName": "CLE @ TEN",
+      "date": "2026-10-25T17:00Z",
+      "state": "pre",
+      "status": "10/25 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "10",
+        "abbr": "TEN",
+        "name": "Tennessee Titans",
+        "score": "0"
+      },
+      "away": {
+        "id": "5",
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873014",
+      "name": "Indianapolis Colts at Minnesota Vikings",
+      "shortName": "IND @ MIN",
+      "date": "2026-10-25T17:00Z",
+      "state": "pre",
+      "status": "10/25 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "16",
+        "abbr": "MIN",
+        "name": "Minnesota Vikings",
+        "score": "0"
+      },
+      "away": {
+        "id": "11",
+        "abbr": "IND",
+        "name": "Indianapolis Colts",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873015",
+      "name": "Miami Dolphins at New York Jets",
+      "shortName": "MIA @ NYJ",
+      "date": "2026-10-25T17:00Z",
+      "state": "pre",
+      "status": "10/25 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "20",
+        "abbr": "NYJ",
+        "name": "New York Jets",
+        "score": "0"
+      },
+      "away": {
+        "id": "15",
+        "abbr": "MIA",
+        "name": "Miami Dolphins",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873018",
+      "name": "Tampa Bay Buccaneers at Carolina Panthers",
+      "shortName": "TB @ CAR",
+      "date": "2026-10-25T17:00Z",
+      "state": "pre",
+      "status": "10/25 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "29",
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
+        "score": "0"
+      },
+      "away": {
+        "id": "27",
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873012",
+      "name": "Cincinnati Bengals at Baltimore Ravens",
+      "shortName": "CIN @ BAL",
+      "date": "2026-10-25T17:00Z",
+      "state": "pre",
+      "status": "10/25 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "33",
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
+        "score": "0"
+      },
+      "away": {
+        "id": "4",
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873016",
+      "name": "New York Giants at Houston Texans",
+      "shortName": "NYG @ HOU",
+      "date": "2026-10-25T17:00Z",
+      "state": "pre",
+      "status": "10/25 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "34",
+        "abbr": "HOU",
+        "name": "Houston Texans",
+        "score": "0"
+      },
+      "away": {
+        "id": "19",
+        "abbr": "NYG",
+        "name": "New York Giants",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873019",
+      "name": "Denver Broncos at Arizona Cardinals",
+      "shortName": "DEN @ ARI",
+      "date": "2026-10-25T20:05Z",
+      "state": "pre",
+      "status": "10/25 - 4:05 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "22",
+        "abbr": "ARI",
+        "name": "Arizona Cardinals",
+        "score": "0"
+      },
+      "away": {
+        "id": "7",
+        "abbr": "DEN",
+        "name": "Denver Broncos",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873020",
+      "name": "Green Bay Packers at Detroit Lions",
+      "shortName": "GB @ DET",
+      "date": "2026-10-25T20:25Z",
+      "state": "pre",
+      "status": "10/25 - 4:25 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "8",
+        "abbr": "DET",
+        "name": "Detroit Lions",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873021",
+      "name": "Los Angeles Rams at Las Vegas Raiders",
+      "shortName": "LAR @ LV",
+      "date": "2026-10-25T20:25Z",
+      "state": "pre",
+      "status": "10/25 - 4:25 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "13",
+        "abbr": "LV",
+        "name": "Las Vegas Raiders",
+        "score": "0"
+      },
+      "away": {
+        "id": "14",
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873022",
+      "name": "Kansas City Chiefs at Seattle Seahawks",
+      "shortName": "KC @ SEA",
+      "date": "2026-10-26T00:20Z",
+      "state": "pre",
+      "status": "10/25 - 8:20 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "26",
+        "abbr": "SEA",
+        "name": "Seattle Seahawks",
+        "score": "0"
+      },
+      "away": {
+        "id": "12",
+        "abbr": "KC",
+        "name": "Kansas City Chiefs",
         "score": "0"
       }
     }
