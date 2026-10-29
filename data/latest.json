@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261026",
+  "date": "20261029",
   "count": 1,
   "games": [
     {
-      "id": "401873009",
-      "name": "Dallas Cowboys at Philadelphia Eagles",
-      "shortName": "DAL @ PHI",
-      "date": "2026-10-27T00:15Z",
+      "id": "401873023",
+      "name": "Carolina Panthers at Green Bay Packers",
+      "shortName": "CAR @ GB",
+      "date": "2026-10-30T00:15Z",
       "state": "pre",
-      "status": "10/26 - 8:15 PM EDT",
+      "status": "10/29 - 8:15 PM EDT",
       "completed": false,
       "home": {
-        "id": "21",
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles",
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
         "score": "0"
       },
       "away": {
-        "id": "6",
-        "abbr": "DAL",
-        "name": "Dallas Cowboys",
+        "id": "29",
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
         "score": "0"
       }
     }
