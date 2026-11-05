@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261102",
+  "date": "20261105",
   "count": 1,
   "games": [
     {
-      "id": "401873036",
-      "name": "Chicago Bears at Seattle Seahawks",
-      "shortName": "CHI @ SEA",
-      "date": "2026-11-03T01:15Z",
+      "id": "401873037",
+      "name": "Jacksonville Jaguars at Baltimore Ravens",
+      "shortName": "JAX @ BAL",
+      "date": "2026-11-06T01:15Z",
       "state": "pre",
-      "status": "11/2 - 8:15 PM EST",
+      "status": "11/5 - 8:15 PM EST",
       "completed": false,
       "home": {
-        "id": "26",
-        "abbr": "SEA",
-        "name": "Seattle Seahawks",
+        "id": "33",
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
         "score": "0"
       },
       "away": {
-        "id": "3",
-        "abbr": "CHI",
-        "name": "Chicago Bears",
+        "id": "30",
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars",
         "score": "0"
       }
     }
