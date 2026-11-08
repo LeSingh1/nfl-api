@@ -1,27 +1,281 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261105",
-  "count": 1,
+  "date": "20261108",
+  "count": 13,
   "games": [
     {
-      "id": "401873037",
-      "name": "Jacksonville Jaguars at Baltimore Ravens",
-      "shortName": "JAX @ BAL",
-      "date": "2026-11-06T01:15Z",
+      "id": "401873038",
+      "name": "Cincinnati Bengals at Atlanta Falcons",
+      "shortName": "CIN VS ATL",
+      "date": "2026-11-08T14:30Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "1",
+        "abbr": "ATL",
+        "name": "Atlanta Falcons",
+        "score": "17",
+        "winner": false
+      },
+      "away": {
+        "id": "4",
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals",
+        "score": "34",
+        "winner": true
+      }
+    },
+    {
+      "id": "401873040",
+      "name": "Dallas Cowboys at Indianapolis Colts",
+      "shortName": "DAL @ IND",
+      "date": "2026-11-08T18:00Z",
       "state": "pre",
-      "status": "11/5 - 8:15 PM EST",
+      "status": "11/8 - 1:00 PM EST",
       "completed": false,
       "home": {
-        "id": "33",
-        "abbr": "BAL",
-        "name": "Baltimore Ravens",
+        "id": "11",
+        "abbr": "IND",
+        "name": "Indianapolis Colts",
         "score": "0"
       },
       "away": {
-        "id": "30",
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars",
+        "id": "6",
+        "abbr": "DAL",
+        "name": "Dallas Cowboys",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873045",
+      "name": "New York Jets at Kansas City Chiefs",
+      "shortName": "NYJ @ KC",
+      "date": "2026-11-08T18:00Z",
+      "state": "pre",
+      "status": "11/8 - 1:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "12",
+        "abbr": "KC",
+        "name": "Kansas City Chiefs",
+        "score": "0"
+      },
+      "away": {
+        "id": "20",
+        "abbr": "NYJ",
+        "name": "New York Jets",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873042",
+      "name": "Detroit Lions at Miami Dolphins",
+      "shortName": "DET @ MIA",
+      "date": "2026-11-08T18:00Z",
+      "state": "pre",
+      "status": "11/8 - 1:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "15",
+        "abbr": "MIA",
+        "name": "Miami Dolphins",
+        "score": "0"
+      },
+      "away": {
+        "id": "8",
+        "abbr": "DET",
+        "name": "Detroit Lions",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873039",
+      "name": "Cleveland Browns at New Orleans Saints",
+      "shortName": "CLE @ NO",
+      "date": "2026-11-08T18:00Z",
+      "state": "pre",
+      "status": "11/8 - 1:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "18",
+        "abbr": "NO",
+        "name": "New Orleans Saints",
+        "score": "0"
+      },
+      "away": {
+        "id": "5",
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873044",
+      "name": "New York Giants at Philadelphia Eagles",
+      "shortName": "NYG @ PHI",
+      "date": "2026-11-08T18:00Z",
+      "state": "pre",
+      "status": "11/8 - 1:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "21",
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles",
+        "score": "0"
+      },
+      "away": {
+        "id": "19",
+        "abbr": "NYG",
+        "name": "New York Giants",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873043",
+      "name": "Los Angeles Rams at Washington Commanders",
+      "shortName": "LAR @ WSH",
+      "date": "2026-11-08T18:00Z",
+      "state": "pre",
+      "status": "11/8 - 1:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "28",
+        "abbr": "WSH",
+        "name": "Washington Commanders",
+        "score": "0"
+      },
+      "away": {
+        "id": "14",
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873041",
+      "name": "Denver Broncos at Carolina Panthers",
+      "shortName": "DEN @ CAR",
+      "date": "2026-11-08T18:00Z",
+      "state": "pre",
+      "status": "11/8 - 1:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "29",
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
+        "score": "0"
+      },
+      "away": {
+        "id": "7",
+        "abbr": "DEN",
+        "name": "Denver Broncos",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873046",
+      "name": "Houston Texans at Los Angeles Chargers",
+      "shortName": "HOU @ LAC",
+      "date": "2026-11-08T21:05Z",
+      "state": "pre",
+      "status": "11/8 - 4:05 PM EST",
+      "completed": false,
+      "home": {
+        "id": "24",
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers",
+        "score": "0"
+      },
+      "away": {
+        "id": "34",
+        "abbr": "HOU",
+        "name": "Houston Texans",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873049",
+      "name": "Green Bay Packers at New England Patriots",
+      "shortName": "GB @ NE",
+      "date": "2026-11-08T21:25Z",
+      "state": "pre",
+      "status": "11/8 - 4:25 PM EST",
+      "completed": false,
+      "home": {
+        "id": "17",
+        "abbr": "NE",
+        "name": "New England Patriots",
+        "score": "0"
+      },
+      "away": {
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873047",
+      "name": "Las Vegas Raiders at San Francisco 49ers",
+      "shortName": "LV @ SF",
+      "date": "2026-11-08T21:25Z",
+      "state": "pre",
+      "status": "11/8 - 4:25 PM EST",
+      "completed": false,
+      "home": {
+        "id": "25",
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
+        "score": "0"
+      },
+      "away": {
+        "id": "13",
+        "abbr": "LV",
+        "name": "Las Vegas Raiders",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873048",
+      "name": "Arizona Cardinals at Seattle Seahawks",
+      "shortName": "ARI @ SEA",
+      "date": "2026-11-08T21:25Z",
+      "state": "pre",
+      "status": "11/8 - 4:25 PM EST",
+      "completed": false,
+      "home": {
+        "id": "26",
+        "abbr": "SEA",
+        "name": "Seattle Seahawks",
+        "score": "0"
+      },
+      "away": {
+        "id": "22",
+        "abbr": "ARI",
+        "name": "Arizona Cardinals",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873050",
+      "name": "Tampa Bay Buccaneers at Chicago Bears",
+      "shortName": "TB @ CHI",
+      "date": "2026-11-09T01:20Z",
+      "state": "pre",
+      "status": "11/8 - 8:20 PM EST",
+      "completed": false,
+      "home": {
+        "id": "3",
+        "abbr": "CHI",
+        "name": "Chicago Bears",
+        "score": "0"
+      },
+      "away": {
+        "id": "27",
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers",
         "score": "0"
       }
     }
