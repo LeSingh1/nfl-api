@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261109",
+  "date": "20261112",
   "count": 1,
   "games": [
     {
-      "id": "401873051",
-      "name": "Buffalo Bills at Minnesota Vikings",
-      "shortName": "BUF @ MIN",
-      "date": "2026-11-10T01:15Z",
+      "id": "401873052",
+      "name": "Washington Commanders at New York Giants",
+      "shortName": "WSH @ NYG",
+      "date": "2026-11-13T01:15Z",
       "state": "pre",
-      "status": "11/9 - 8:15 PM EST",
+      "status": "11/12 - 8:15 PM EST",
       "completed": false,
       "home": {
-        "id": "16",
-        "abbr": "MIN",
-        "name": "Minnesota Vikings",
+        "id": "19",
+        "abbr": "NYG",
+        "name": "New York Giants",
         "score": "0"
       },
       "away": {
-        "id": "2",
-        "abbr": "BUF",
-        "name": "Buffalo Bills",
+        "id": "28",
+        "abbr": "WSH",
+        "name": "Washington Commanders",
         "score": "0"
       }
     }
