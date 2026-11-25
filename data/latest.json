@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261123",
+  "date": "20261125",
   "count": 1,
   "games": [
     {
-      "id": "401873078",
-      "name": "Cincinnati Bengals at Washington Commanders",
-      "shortName": "CIN @ WSH",
-      "date": "2026-11-24T01:15Z",
+      "id": "401873079",
+      "name": "Green Bay Packers at Los Angeles Rams",
+      "shortName": "GB @ LAR",
+      "date": "2026-11-26T01:00Z",
       "state": "pre",
-      "status": "11/23 - 8:15 PM EST",
+      "status": "11/25 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "28",
-        "abbr": "WSH",
-        "name": "Washington Commanders",
+        "id": "14",
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
         "score": "0"
       },
       "away": {
-        "id": "4",
-        "abbr": "CIN",
-        "name": "Cincinnati Bengals",
+        "id": "9",
+        "abbr": "GB",
+        "name": "Green Bay Packers",
         "score": "0"
       }
     }
