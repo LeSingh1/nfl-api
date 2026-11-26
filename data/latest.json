@@ -1,27 +1,69 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261125",
-  "count": 1,
+  "date": "20261126",
+  "count": 3,
   "games": [
     {
-      "id": "401873079",
-      "name": "Green Bay Packers at Los Angeles Rams",
-      "shortName": "GB @ LAR",
-      "date": "2026-11-26T01:00Z",
-      "state": "pre",
-      "status": "11/25 - 8:00 PM EST",
+      "id": "401873081",
+      "name": "Chicago Bears at Detroit Lions",
+      "shortName": "CHI @ DET",
+      "date": "2026-11-26T18:00Z",
+      "state": "in",
+      "status": "0:09 - 4th",
       "completed": false,
       "home": {
-        "id": "14",
-        "abbr": "LAR",
-        "name": "Los Angeles Rams",
+        "id": "8",
+        "abbr": "DET",
+        "name": "Detroit Lions",
+        "score": "35"
+      },
+      "away": {
+        "id": "3",
+        "abbr": "CHI",
+        "name": "Chicago Bears",
+        "score": "32"
+      }
+    },
+    {
+      "id": "401873080",
+      "name": "Philadelphia Eagles at Dallas Cowboys",
+      "shortName": "PHI @ DAL",
+      "date": "2026-11-26T21:30Z",
+      "state": "pre",
+      "status": "11/26 - 4:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "6",
+        "abbr": "DAL",
+        "name": "Dallas Cowboys",
         "score": "0"
       },
       "away": {
-        "id": "9",
-        "abbr": "GB",
-        "name": "Green Bay Packers",
+        "id": "21",
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401873082",
+      "name": "Kansas City Chiefs at Buffalo Bills",
+      "shortName": "KC @ BUF",
+      "date": "2026-11-27T01:20Z",
+      "state": "pre",
+      "status": "11/26 - 8:20 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2",
+        "abbr": "BUF",
+        "name": "Buffalo Bills",
+        "score": "0"
+      },
+      "away": {
+        "id": "12",
+        "abbr": "KC",
+        "name": "Kansas City Chiefs",
         "score": "0"
       }
     }
