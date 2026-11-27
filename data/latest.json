@@ -1,70 +1,28 @@
 {
   "sport": "football",
   "league": "nfl",
-  "date": "20261126",
-  "count": 3,
+  "date": "20261127",
+  "count": 1,
   "games": [
     {
-      "id": "401873081",
-      "name": "Chicago Bears at Detroit Lions",
-      "shortName": "CHI @ DET",
-      "date": "2026-11-26T18:00Z",
+      "id": "401873083",
+      "name": "Denver Broncos at Pittsburgh Steelers",
+      "shortName": "DEN @ PIT",
+      "date": "2026-11-27T20:00Z",
       "state": "in",
-      "status": "0:09 - 4th",
+      "status": "2:00 - 2nd",
       "completed": false,
       "home": {
-        "id": "8",
-        "abbr": "DET",
-        "name": "Detroit Lions",
-        "score": "35"
+        "id": "23",
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "score": "14"
       },
       "away": {
-        "id": "3",
-        "abbr": "CHI",
-        "name": "Chicago Bears",
-        "score": "32"
-      }
-    },
-    {
-      "id": "401873080",
-      "name": "Philadelphia Eagles at Dallas Cowboys",
-      "shortName": "PHI @ DAL",
-      "date": "2026-11-26T21:30Z",
-      "state": "pre",
-      "status": "11/26 - 4:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "6",
-        "abbr": "DAL",
-        "name": "Dallas Cowboys",
-        "score": "0"
-      },
-      "away": {
-        "id": "21",
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401873082",
-      "name": "Kansas City Chiefs at Buffalo Bills",
-      "shortName": "KC @ BUF",
-      "date": "2026-11-27T01:20Z",
-      "state": "pre",
-      "status": "11/26 - 8:20 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2",
-        "abbr": "BUF",
-        "name": "Buffalo Bills",
-        "score": "0"
-      },
-      "away": {
-        "id": "12",
-        "abbr": "KC",
-        "name": "Kansas City Chiefs",
-        "score": "0"
+        "id": "7",
+        "abbr": "DEN",
+        "name": "Denver Broncos",
+        "score": "5"
       }
     }
   ]
